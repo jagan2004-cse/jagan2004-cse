@@ -71,7 +71,7 @@
   <br>
 <hr/>
 <div align="center">
-<img  src="https://raw.githubusercontent.com/arulmozhikumar7/arulmozhikumar7/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+![snake gif](https://github.com/jagan2004-cse/jagan2004-cse/blob/output/github-contribution-grid-snake.svg)
 </div>
 <hr/>
 
