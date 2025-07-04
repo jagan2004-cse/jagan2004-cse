@@ -71,7 +71,7 @@
   <br>
 <hr/>
 <div align="center">
-![snake gif](https://github.com/jagan2004-cse/jagan2004-cse/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/jagan2004-cse/jagan2004-cse/output/snake.svg" alt="Snake animation" />
 </div>
 <hr/>
 
