@@ -32,7 +32,7 @@
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on **Django Projects**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="25"> I'm a quick learner And I’m currently  learning **React js** 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Node.js, React, MongoDB...** <br />
-:hearts: &emsp;I enjoy programming and sharing knowledge <br />
+:hearts: &emsp;I enjoy programming and sharing knowledge with friend<br />
 :computer: &emsp;Most used line of code `console.log("HELLO WORLD 🦇")` <br />
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **jaganjagan2004@gmail.com**
 <div align="center">
